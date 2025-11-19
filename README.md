@@ -29,8 +29,8 @@ The creation of these materials was supported in part by the {INSERT FUNDING AGE
 
 ### Figures
 
-#### Figure 01: Figure Name
-<img src="https://github.com/DelMaestroGroup/papers-code-template/blob/main/figures/figure01.svg" width="400px">
+#### Figure 01: Multi-Fidelity demo
+<img src="figures/Multifiddemo.svg" width="400px">
 
 This figure is relesed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
 
