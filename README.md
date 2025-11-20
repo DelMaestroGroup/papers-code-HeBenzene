@@ -21,10 +21,10 @@ The data in this project was generated via ...  Processed data is included in th
 3. ...
 
 ### Support
-The creation of these materials was supported in part by the {INSERT FUNDING AGENCY} under Award No. [{AWARD NUMBER}](https://www.nsf.gov/awardsearch/simpleSearchResult?queryText=delmaestro).
+The creation of these materials was supported by the The University of Tennessee Materials Research Science & Engineering Center — The Center for Advanced Materials and Manufacturing which is in turn supported by the National Science Foundation under DMR No. 2309083. 
 
-<img width="400px" src="https://new.nsf.gov/themes/custom/nsf_theme/components/images/logo/logo-desktop.svg">
-<img width="400px" src="https://science.osti.gov/assets/img/doe-logos/logo.png">
+<img width="300px" src="https://www.nsf.gov/themes/custom/nsf_theme/components/molecules/logo/logo-desktop.png">
+<!--<img width="400px" src="https://science.osti.gov/assets/img/doe-logos/logo.png">-->
 
 
 ### Figures
