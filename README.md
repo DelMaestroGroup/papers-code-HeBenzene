@@ -32,6 +32,9 @@ The creation of these materials was supported by the The University of Tennessee
 #### Figure 01: Multi-Fidelity demo
 <img src="figures/Multifiddemo.svg" width="400px">
 
+#### Figure 02: Comparison of various potentials
+<img src="figures/Fig2_Comp.svg" width="400px">
+
 #### Figure 03: Potential Energy 2D
 <img src="figures/Poturf.svg" width="400px">
 
