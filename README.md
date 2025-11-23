@@ -1,9 +1,9 @@
 [![Paper](https://img.shields.io/badge/paper-arXiv%3AXXXX.YYYYY-B31B1B.svg)](https://arxiv.org/abs/XXXX.YYYYY)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://zenodo.org/badge/latestdoi/XXXXYYYYY)
 
-# Paper Title
+# Accurate Helium-Benzene Potential: from CCSD(T) to Gaussian Process Regression
 
-Author 1, Author 2, Author 3
+Shahzad Akram, Sutirtha Paul, Adrian Del Maestro and Konstantinos D. Vogiatzis
 
 [arXiv:XXXX.YYYYY](https://arxiv.org/abs/XXXX.YYYYY)
 
