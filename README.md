@@ -32,5 +32,8 @@ The creation of these materials was supported by the The University of Tennessee
 #### Figure 01: Multi-Fidelity demo
 <img src="figures/Multifiddemo.svg" width="400px">
 
+#### Figure 03: Potential Energy 2D
+<img src="figures/Poturf.svg" width="400px">
+
 This figure is relesed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
 
