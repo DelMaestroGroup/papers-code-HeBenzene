@@ -21,7 +21,7 @@ order (CCSDT(Q)) contributions. We use symmetry-adapted perturbation the-
 ory (SAPT) to benchmark it against CCSD(T) and to decompose the inter-
 action into its physical components—confirming it is dominated by a balance
 between dispersion and exchange-repulsion. A continuous, three-dimensional
-PES is then constructed from 2475 discrete ab initio points using Gaussian Pro-
+PES is then constructed from 2525 discrete ab initio points using Gaussian Pro-
 cess (GP) regression. This new PES is applied in Path Integral Monte Carlo
 (PIMC) simulations to study the adsorption of 4He atoms on benzene at low
 temperatures. Our PIMC results reveal qualitatively different adsorption behav-
