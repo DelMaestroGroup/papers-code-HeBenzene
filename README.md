@@ -38,6 +38,9 @@ The creation of these materials was supported by the The University of Tennessee
 #### Figure 03: Potential Energy 2D
 <img src="figures/Poturf.svg" width="400px">
 
+#### Figure 04: N vs $\mu$ comparison
+<img src="figures/Fig4.svg" width="400px">
+
 #### Figure 05a: Planar Density LJ
 <img src="figures/Fig9a.png" width="400px">
 
