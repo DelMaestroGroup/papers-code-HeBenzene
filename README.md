@@ -38,5 +38,11 @@ The creation of these materials was supported by the The University of Tennessee
 #### Figure 03: Potential Energy 2D
 <img src="figures/Poturf.svg" width="400px">
 
-This figure is relesed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
+#### Figure 05a: Planar Density LJ
+<img src="figures/Fig9a.png" width="400px">
+
+#### Figure 05b: Planar Density GP
+<img src="figures/Fig9b.png" width="400px">
+
+This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
 
