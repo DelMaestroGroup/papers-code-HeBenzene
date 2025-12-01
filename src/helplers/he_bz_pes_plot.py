@@ -10,7 +10,9 @@ def set_pub_style(font_size=12):
     plt.rc("legend", fontsize=font_size)
 
 
-def plot_curves_on_axis(ax, x_data, curves_config, xlabel, ylabel):
+def plot_curves_on_axis(
+    ax, x_data, curves_config, xlabel, ylabel, legend_loc="upper right"
+):
 
     for curve in curves_config:
         ax.plot(
@@ -26,5 +28,5 @@ def plot_curves_on_axis(ax, x_data, curves_config, xlabel, ylabel):
 
     ax.set_xlabel(xlabel)
     ax.set_ylabel(ylabel)
-    ax.legend(loc="upper right")
+    ax.legend(loc=legend_loc)
     ax.grid(True, alpha=0.3, linestyle="--")
