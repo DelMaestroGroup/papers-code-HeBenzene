@@ -2,13 +2,28 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-def set_pub_style(font_size=12):
+font_size = 13
+x_tick_size = 12
+y_tick_size = 12
+axes_label_size = 12
+legend_font_size = 12
+line_width = 1
+marker_size = 2
+marker = "o"
+line_style = "-"
 
-    plt.rc("font", size=10)
-    plt.rc("xtick", labelsize=font_size)
-    plt.rc("ytick", labelsize=font_size)
-    plt.rc("axes", labelsize=font_size)
-    plt.rc("legend", fontsize=font_size)
+
+def set_pub_style():
+
+    plt.rc("font", size=font_size)
+    plt.rc("xtick", labelsize=x_tick_size)
+    plt.rc("ytick", labelsize=y_tick_size)
+    plt.rc("axes", labelsize=axes_label_size)
+    plt.rc("legend", fontsize=legend_font_size)
+
+
+def set_plot_grid(ax):
+    ax.grid(True, alpha=0.3, linestyle="--")
 
 
 def plot_curves_on_axis(
@@ -20,17 +35,21 @@ def plot_curves_on_axis(
             x_data,
             curve["y_data"],
             label=curve.get("label"),
-            linewidth=curve.get("linewidth", 1.0),
-            linestyle=curve.get("linestyle", "-"),
-            marker=curve.get("marker", "o"),
-            markersize=curve.get("markersize", 2),
+            linewidth=line_width,
+            linestyle=line_style,
+            marker=marker,
+            markersize=marker_size,
             color=curve.get("color", None),
         )
 
     ax.set_xlabel(xlabel)
     ax.set_ylabel(ylabel)
     ax.legend(loc=legend_loc)
+<<<<<<< HEAD
     ax.grid(True, alpha=0.3, linestyle="--")
+=======
+    set_plot_grid(ax)
+>>>>>>> kvog
 
 
 def get_benzene_coords_array():
@@ -82,7 +101,11 @@ def plot_inset_benzene(ax, inset_position, *q_args):
     inax = ax.inset_axes(inset_position, projection="3d")
 
     plot_benzene(inax)
+<<<<<<< HEAD
     val = [5, 0, 0]
+=======
+    val = [8, 0, 0]
+>>>>>>> kvog
     labels = [r"$x$", r"$y$", r"$z$"]
 
     for v in range(3):
@@ -103,9 +126,15 @@ def plot_inset_benzene(ax, inset_position, *q_args):
     inax.set_facecolor("none")
     inax.quiver(*q_args, color="blue", length=0.5, arrow_length_ratio=0.3)
 
+<<<<<<< HEAD
     inax.set_xlim(np.array([-2, 5]))
     inax.set_ylim(np.array([-2, 5]))
     inax.set_zlim(np.array([-2, 5]))
+=======
+    inax.set_xlim(np.array([-2, 8]))
+    inax.set_ylim(np.array([-2, 8]))
+    inax.set_zlim(np.array([-2, 8]))
+>>>>>>> kvog
 
     inax.set_xticks([])
     inax.set_yticks([])
