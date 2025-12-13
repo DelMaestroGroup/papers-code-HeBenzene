@@ -52,19 +52,22 @@ The creation of these materials was supported by the The University of Tennessee
 #### Figure 01: Multi-Fidelity demo
 <img src="figures/Multifiddemo.svg" width="400px">
 
-#### Figure 02: Comparison of various potentials
+#### Figure 02: Comparison of Error for the two models
+<img src="figures/MAEComparison.svg" width="400px">
+
+#### Figure 03: Comparison of various potentials
 <img src="figures/Fig2_Comp.svg" width="400px">
 
-#### Figure 03: Potential Energy 2D
+#### Figure 04: Potential Energy 2D
 <img src="figures/Poturf.svg" width="400px">
 
-#### Figure 04: N vs $\mu$ comparison
+#### Figure 05: N vs $\mu$ comparison
 <img src="figures/Fig4.svg" width="400px">
 
-#### Figure 05a: Planar Density LJ
+#### Figure 06a: Planar Density LJ
 <img src="figures/Fig9a.png" width="400px">
 
-#### Figure 05b: Planar Density GP
+#### Figure 06b: Planar Density GP
 <img src="figures/Fig9b.png" width="400px">
 
 This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
