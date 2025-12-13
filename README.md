@@ -8,27 +8,8 @@ Shahzad Akram, Sutirtha Paul, Adrian Del Maestro and Konstantinos D. Vogiatzis
 [arXiv:XXXX.YYYYY](https://arxiv.org/abs/XXXX.YYYYY)
 
 ### Abstract
-The accurate modeling of non-covalent interactions between helium and graphitic
-materials is important for understanding quantum phenomena in reduced di-
-mensions, with the helium-benzene (He-Bz) complex serving as the fundamental
-prototype. However, creating a quantitatively reliable potential energy surface
-(PES) for this weakly bound system remains a significant computational chal-
-lenge. In this work, we present a comprehensive, multi-level investigation of the
-He-Bz interaction, establishing benchmark energies using high-level coupled-
-cluster coupled-cluster singles-and-doubles with perturbative triples (CCSD(T))
-methods extrapolated to the complete basis set (CBS) and assessing higher-
-order (CCSDT(Q)) contributions. We use symmetry-adapted perturbation the-
-ory (SAPT) to benchmark it against CCSD(T) and to decompose the inter-
-action into its physical components—confirming it is dominated by a balance
-between dispersion and exchange-repulsion. A continuous, three-dimensional
-PES is then constructed from 2525 discrete ab initio points using Gaussian Pro-
-cess (GP) regression. This new PES is applied in Path Integral Monte Carlo
-(PIMC) simulations to study the adsorption of 4He atoms on benzene at low
-temperatures. Our PIMC results reveal qualitatively different adsorption behav-
-ior, particularly in the filling of adsorption layers, when compared to simulations
-using commonly employed empirical Lennard-Jones potentials. This work pro-
-vides a benchmark PES essential for accurate many-body simulations of helium
-on larger polycyclic aromatic hydrocarbons and graphene.
+The accurate modeling of non-covalent interactions between helium and graphitic materials is important for understanding quantum phenomena in reduced dimensions, with the helium-benzene (He-Bz) complex serving as the fundamental prototype. However, creating a quantitatively reliable potential energy surface (PES) for this weakly bound system remains a significant computational challenge. In this work, we present a comprehensive, multi-level investigation of the He-Bz interaction, establishing benchmark energies using high-level coupled-cluster coupled-cluster ingles-and-doubles with perturbative triples (CCSD(T)) methods extrapolated to the complete basis set (CBS) and assessing higher order (CCSDT(Q)) contributions. We use symmetry-adapted perturbation theory (SAPT) to benchmark it against CCSD(T) and to decompose the interaction into its physical components—confirming it is dominated by a balance between dispersion and exchange-repulsion. A continuous, three-dimensional PES is then constructed from 2525 discrete ab initio points using Gaussian Process (GP) regression. This new PES is applied in Path Integral Monte Carlo
+(PIMC) simulations to study the adsorption of 4He atoms on benzene at low temperatures. Our PIMC results reveal qualitatively different adsorption behavior, particularly in the filling of adsorption layers, when compared to simulations using commonly employed empirical Lennard-Jones potentials. This work provides a benchmark PES essential for accurate many-body simulations of helium on larger polycyclic aromatic hydrocarbons and graphene.
 
 ### Description
 This repository includes links, code, scripts, and data to generate the figures in a paper.
