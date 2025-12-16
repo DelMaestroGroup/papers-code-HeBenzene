@@ -35,21 +35,17 @@ def plot_curves_on_axis(
             x_data,
             curve["y_data"],
             label=curve.get("label"),
-            linewidth=line_width,
+            linewidth=curve.get("linewidth", line_width),
             linestyle=line_style,
             marker=marker,
-            markersize=marker_size,
+            markersize=curve.get("markersize", marker_size),
             color=curve.get("color", None),
         )
 
     ax.set_xlabel(xlabel)
     ax.set_ylabel(ylabel)
     ax.legend(loc=legend_loc)
-<<<<<<< HEAD
-    ax.grid(True, alpha=0.3, linestyle="--")
-=======
     set_plot_grid(ax)
->>>>>>> kvog
 
 
 def get_benzene_coords_array():
@@ -101,11 +97,7 @@ def plot_inset_benzene(ax, inset_position, *q_args):
     inax = ax.inset_axes(inset_position, projection="3d")
 
     plot_benzene(inax)
-<<<<<<< HEAD
     val = [5, 0, 0]
-=======
-    val = [8, 0, 0]
->>>>>>> kvog
     labels = [r"$x$", r"$y$", r"$z$"]
 
     for v in range(3):
@@ -126,15 +118,9 @@ def plot_inset_benzene(ax, inset_position, *q_args):
     inax.set_facecolor("none")
     inax.quiver(*q_args, color="blue", length=0.5, arrow_length_ratio=0.3)
 
-<<<<<<< HEAD
     inax.set_xlim(np.array([-2, 5]))
     inax.set_ylim(np.array([-2, 5]))
     inax.set_zlim(np.array([-2, 5]))
-=======
-    inax.set_xlim(np.array([-2, 8]))
-    inax.set_ylim(np.array([-2, 8]))
-    inax.set_zlim(np.array([-2, 8]))
->>>>>>> kvog
 
     inax.set_xticks([])
     inax.set_yticks([])
