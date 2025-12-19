@@ -19,28 +19,26 @@ The QMC data was generated with quantum Monte Carlo using our [open source path 
 
 1. A minimal environment to execute these notebooks can be installed via `pip install -r requirements.txt`
 2. [Dependency Name](https://dependencelink)
-3. ...
 
 ### Support
 The creation of these materials was supported by the The University of Tennessee Materials Research Science & Engineering Center — The Center for Advanced Materials and Manufacturing which is in turn supported by the National Science Foundation under DMR No. 2309083. 
 
 <img width="300px" src="https://www.nsf.gov/themes/custom/nsf_theme/components/molecules/logo/logo-desktop.png">
-<!--<img width="400px" src="https://science.osti.gov/assets/img/doe-logos/logo.png">-->
 
 
 ### Figures
 
-#### Figure 01: Multi-Fidelity demo
+#### Figure 05: Multi-Fidelity demo
 <img src="figures/Multifiddemo.svg" width="400px">
 
-#### Figure 02: Comparison of Error for the two models
+#### Figure 06: Comparison of Error for the two models
 <img src="figures/MAEComparison.svg" width="400px">
 
-#### Figure 03: Comparison of various potentials
-<img src="figures/Fig2_Comp.svg" width="400px">
-
-#### Figure 04: Potential Energy 2D
+#### Figure 07: Potential Energy 2D
 <img src="figures/Poturf.svg" width="400px">
+
+#### Figure 08: Comparison of various potentials
+<img src="figures/Fig2_Comp.svg" width="400px">
 
 #### Figure 09: N vs $\mu$ comparison
 <img src="figures/Fig9.svg" width="400px">
