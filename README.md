@@ -42,13 +42,13 @@ The creation of these materials was supported by the The University of Tennessee
 #### Figure 04: Potential Energy 2D
 <img src="figures/Poturf.svg" width="400px">
 
-#### Figure 05: N vs $\mu$ comparison
-<img src="figures/Fig4.svg" width="400px">
+#### Figure 09: N vs $\mu$ comparison
+<img src="figures/Fig9.svg" width="400px">
 
-#### Figure 06a: Planar Density LJ
+#### Figure 10a: Planar Density LJ
 <img src="figures/Fig9a.png" width="400px">
 
-#### Figure 06b: Planar Density GP
+#### Figure 10b: Planar Density GP
 <img src="figures/Fig9b.png" width="400px">
 
 This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
