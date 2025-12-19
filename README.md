@@ -20,11 +20,11 @@ The QMC data was generated with quantum Monte Carlo using our [open source path 
 2. The [HeBz library](https://github.com/paulsphys/HeBz) is needed for plots and can be installed with `pip install git+https://github.com/paulsphys/HeBz.git`
 
 ### Support
-The creation of these materials was supported by the The University of Tennessee Materials Research Science & Engineering Center — The Center for Advanced Materials and Manufacturing which is in turn supported by the National Science Foundation under DMR No. 2309083. 
+The creation of these materials was primarily supported by the National Science Foundation [Materials Research Science and Engineering Center](https://mrsec.org/) program through the [UT Knoxville Center for Advanced Materials and Manufacturing](https://camm.utk.edu/) (DMR-2309083).
 
-<img width="200px" src="https://www.nsf.gov/themes/custom/nsf_theme/components/molecules/logo/logo-desktop.png">
-<img width="200px" src="https://camm.utk.edu/wp-content/uploads/2025/05/MRSEC-logo_clear-background.png">
-<img width="200px" src="https://camm.utk.edu/wp-content/uploads/2025/05/camm_logo_centered-768x287.png">
+<img width="500px" src="https://imagedelivery.net/qXYabcYg0JPsn0bBVWE4SA/5826c51a-7afa-4b35-8736-6ab032f41c77/mrsec-logo.png/raw">
+
+<img width="300px" src="https://imagedelivery.net/qXYabcYg0JPsn0bBVWE4SA/85b5a5c0-2856-44f5-af7e-bafd32c3e888/camm_logo_centered.jpg/logo">
 
 ### Figures
 
