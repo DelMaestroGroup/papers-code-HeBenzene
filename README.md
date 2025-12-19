@@ -1,5 +1,6 @@
 [![Paper](https://img.shields.io/badge/paper-arXiv%3AXXXX.YYYYY-B31B1B.svg)](https://arxiv.org/abs/XXXX.YYYYY)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17992890.svg)](https://zenodo.org/badge/latestdoi/17992890)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17992890.svg)](https://doi.org/10.5281/zenodo.17992890)
+
 
 # Accurate Helium-Benzene Potential: from CCSD(T) to Gaussian Process Regression
 
