@@ -16,7 +16,8 @@ This repository includes links, code, scripts, and data to generate the figures 
 ### Requirements
 The QMC data was generated with quantum Monte Carlo using our [open source path integral software](https://code.delmaestro.org) also available on [github](https://github.com/delmaestrogroup/pimc). The potential for the QMC data is available as python package on [github](https://github.com/paulsphys/HeBz). Processed data is included in the [data]([https://github.com/DelMaestroGroup/papers-code-template/tree/main/data](https://github.com/DelMaestroGroup/papers-code-HeBenzene/tree/main/data)) directory and the full raw simulation data set is available online at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXX)
 
-A minimal environment to execute these notebooks can be installed via `pip install -r requirements.txt`
+1. A minimal environment to execute these notebooks can be installed via `conda env create -f environment.yml`
+2. The [HeBz library](https://github.com/paulsphys/HeBz) is needed for plots and can be installed with `pip install git+https://github.com/paulsphys/HeBz.git`
 
 ### Support
 The creation of these materials was supported by the The University of Tennessee Materials Research Science & Engineering Center — The Center for Advanced Materials and Manufacturing which is in turn supported by the National Science Foundation under DMR No. 2309083. 
