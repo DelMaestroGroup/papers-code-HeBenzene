@@ -22,8 +22,9 @@ The QMC data was generated with quantum Monte Carlo using our [open source path 
 ### Support
 The creation of these materials was supported by the The University of Tennessee Materials Research Science & Engineering Center — The Center for Advanced Materials and Manufacturing which is in turn supported by the National Science Foundation under DMR No. 2309083. 
 
-<img width="300px" src="https://www.nsf.gov/themes/custom/nsf_theme/components/molecules/logo/logo-desktop.png">
-
+<img width="200px" src="https://www.nsf.gov/themes/custom/nsf_theme/components/molecules/logo/logo-desktop.png">
+<img width="200px" src=https://camm.utk.edu/wp-content/uploads/2025/05/MRSEC-logo_clear-background.png">
+<img width="200px" src="https://camm.utk.edu/wp-content/uploads/2025/05/camm_logo_centered-768x287.png">
 
 ### Figures
 
