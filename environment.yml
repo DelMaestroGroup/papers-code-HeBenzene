@@ -1,4 +1,4 @@
-name: benzenetest2
+name: benzene
 channels:
   - defaults
   - conda-forge
