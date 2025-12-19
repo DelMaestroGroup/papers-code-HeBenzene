@@ -27,6 +27,24 @@ The creation of these materials was supported by the The University of Tennessee
 
 ### Figures
 
+#### Figure 01: CCSD(T) results
+<img src="figures/ccsd_res.svg" width="400px">
+
+#### Figure 02: DFT Benchmark plots
+<img src="figures/dft_bench.svg" width="400px">
+
+#### Figure 03a: SAPT-1
+<img src="figures/sapt__(x,0,2.620).svg" width="400px">
+
+#### Figure 03b: SAPT-2
+<img src="figures/sapt__(x,0,3.128).svg" width="400px">
+
+#### Figure 03c: SAPT-3
+<img src="figures/sapt__(x,0,7.000).svg" width="400px">
+
+#### Figure 04: SAPT Decomposition
+<img src="figures/sapt_decompose.svg" width="400px">
+
 #### Figure 05: Multi-Fidelity demo
 <img src="figures/Multifiddemo.svg" width="400px">
 
