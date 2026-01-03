@@ -68,5 +68,9 @@ The creation of these materials was primarily supported by the National Science 
 #### Figure 10b: Planar Density GP
 <img src="figures/Fig9b.png" width="400px">
 
+#### Figure S3: Joining function artifacts
+<img src="figures/FigS3.svg" width="400px">
+
+
 This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
 
